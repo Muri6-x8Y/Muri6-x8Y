@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muri6-x8Y
+- 👋 Hi, I’m Murilo Costa da Silva
 - 👀 I’m interested in C++ & java programs
 - 🌱 I’m currently learning C++ & java OOP
 - 💞️ I’m looking to collaborate on ...
